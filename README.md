@@ -103,7 +103,7 @@
 
 <p>The project being a group assignment, every individual invested long hours in designing and developng of visualisations. Understanding the process, deciding the dataset, finalizing the designing language were some of the initial tasks completed as a team.</p>
 
-<p>Data preperation and visualization were equally distributed among all three. The whole process including the webpage creation took us around 80 hours, which involved the meetings, discussions and research on coding practice and learning different tools and libraries.</p>
+<p>Data preperation and visualization were equally distributed among all three. The whole process including the webpage creation took us around 30 hours, which involved the meetings, discussions and research on coding practice and learning different tools and libraries.</p>
 
 <p>During the process of developing this project, we learned visualization, but along with it we also experienced working as a team, dealing with agreements, disagreements, challenges, etc which helped in ou overall development.</p>
 
